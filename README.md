@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alan-saju" alt="alan-saju" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science and Machine learning**
+- 🌱 I’m currently learning **BlockChain Technologies ,Data Science and Machine learning**
 
 - 📫 How to reach me **alansaju10x@gmail.com**
 
