@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Currently Learning Machine Learning and Neural Networks.</p>
+<p align="left">Currently Learning Full Stack  and Neural Networks.</p>
 
 ###
 
